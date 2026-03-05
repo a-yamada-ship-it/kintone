@@ -1,25 +1,14 @@
-# kintone カスタマイズ管理
+## 案件管理
+案件管理アプリのJavaScript
 
-このリポジトリは、kintoneアプリのJavaScriptカスタマイズコードを管理するためのものです。
+ファイル
+- OKorCXL.js.js
+- red.js
 
-## 概要
+## 対応用
+対応用アプリのJavaScript
 
-kintoneに追加するJavaScriptコードをGitHubでバージョン管理します。
-
-## ファイル
-
-### red.js
-
-kintoneアプリに追加するJavaScriptカスタマイズコード。
-
-## 使い方
-
-1. コードを修正する
-2. GitHubにコミットする
-3. kintone管理画面からJavaScriptファイルをアップロードする
-
-## 管理ルール
-
-* コードを変更したらGitHubに保存する
-* 変更履歴はcommitで管理する
-* 本番環境に反映する前にテストする
+ファイル
+- time.js
+- lifeplus.js
+- lifeplus2.js
